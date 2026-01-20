@@ -15,6 +15,7 @@ function App() {
       ):(
         <>
         <h1>Test</h1>
+        <h2>There is no name</h2>
         </>
       )}
     </div>
