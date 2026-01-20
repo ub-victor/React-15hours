@@ -1,0 +1,8 @@
+// this line help us to ignore node modules
+node_modules/
+// and this to ignore log files
+*.log
+.DS_Store   
+.env
+dist/
+build/  
