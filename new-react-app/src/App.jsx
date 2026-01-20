@@ -6,8 +6,14 @@ import './App.css'
 function App() {
   const name = null;
   return (
-    <>
+    <div>
       <p>Hello, World</p>
+    </div>
+    <>
+      
+      {
+        name? ()
+      }
     </>
   )
 }
