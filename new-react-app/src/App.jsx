@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  const name = null;
+  const name = 'Victoire';
   return (
     <div>
       <p>Hello, World</p>
