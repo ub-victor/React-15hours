@@ -9,12 +9,6 @@ function App() {
     <div>
       <p>Hello, World</p>
     </div>
-    <>
-      
-      {
-        name? ()
-      }
-    </>
   )
 }
 
