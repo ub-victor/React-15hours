@@ -6,8 +6,8 @@ import './App.css'
 const Person = () => {
   return(
     <>
-    <h1>wow</h1>
-    <h2>Good</h2>
+    <h1>Name :</h1>
+    <h2>Last name :</h2>
     </>
   )
 }
