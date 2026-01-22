@@ -16,7 +16,10 @@ const Person = (props) => {
 function App() {
   return (
     <div>
-      <Person/>
+      <Person
+       name={'Ushindi'}
+       ln={'victoire'} 
+       age={30}/>
       <Person/>
       
     </div>
