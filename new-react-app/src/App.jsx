@@ -17,6 +17,6 @@ function App() {
       <button onClick={()=> setCounter((nextCount)=> nextCount +1)} >+</button>
     </div>
   )
-} 
+}
 
 export default App
