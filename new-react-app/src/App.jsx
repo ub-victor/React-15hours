@@ -5,7 +5,7 @@ import './App.css'
 
 
 const Person = (props) => {
-  const [counter, setCounter] = useState(0)
+  
   return(
     <>
     <h1>Name : {props.name}</h1>
@@ -16,6 +16,8 @@ const Person = (props) => {
 }
 
 function App() {
+  const [counter, setCounter] = useState(0)
+  
   return (
     <div>
       <Person
