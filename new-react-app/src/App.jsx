@@ -8,12 +8,9 @@ function App() {
 
   return (
     <div>
-      <Person
-       name={'Ushindi'}
-       ln={'victoire'} 
-       age={30}/>
-      <Person/>
-      
+      <button>-</button>
+      <h1>{counter}</h1>
+      <button>+</button>
     </div>
   )
 }
