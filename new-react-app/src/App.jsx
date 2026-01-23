@@ -1,8 +1,8 @@
 import { useEffect, useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
-import './App.css'
 import SearchIcon from './search.svg'
+import './App.css'
 const API_URL = 'http://www.omdbapi.com/?i=tt3896198&apikey=7b5751eb';
 
 
