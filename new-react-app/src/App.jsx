@@ -22,7 +22,9 @@ function App() {
       <h1>MovieLand</h1>
 
       <div className='search'>
-        
+        <input type="text"
+          placeholder='Superman'
+          onChange={()=>{}} />
       </div>
    </div>
   )
