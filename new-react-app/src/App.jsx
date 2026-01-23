@@ -7,7 +7,9 @@ const API_URL = 'http://www.omdbapi.com/?i=tt3896198&apikey=7b5751eb';
 
 function App() { 
   useEffect (()=>{
-
+    const searchMovies = async (title)=>{
+      const respont = await fetch(`${API_URL} &s=${title}`)
+    }
   }, []);
   return (
     <div>
