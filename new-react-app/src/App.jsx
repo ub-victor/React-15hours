@@ -29,7 +29,12 @@ function App() {
       </div>
 
       <div className='container'>
-        
+        <div className='movie'>
+          <div>
+            <p>{movie}</p>
+          </div>
+        </div>
+
       </div>
    </div>
   )
