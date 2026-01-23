@@ -18,7 +18,7 @@ function App() {
   }, [])
 
   return (
-   <div className='app'>MovieLand</div>
+   <div className='app'></div>
   )
 }
 
