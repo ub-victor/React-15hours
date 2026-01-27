@@ -7,8 +7,8 @@ function App() {
 
   return (
     <>
-      <Greet name = "Victoire" heroName= "batman"><Greet/>
-      <Greet name = "Ushindi" heroName= "ironman"  />
+      <Greet name = "Victoire" heroName= "batman"/>
+      <Greet name = "Ushindi" heroName= "ironman"/>
     </>
   )
 }
