@@ -9,8 +9,8 @@ function App() {
 
   return (
     <>
-      <Greet/>
-      <Greet/>
+      <Greet name = "Victoire" heroName= "Spiderman"/>
+      
     </>
   )
 }
