@@ -9,7 +9,7 @@ const Counter = () => {
             <h1>Counter = {count} </h1>
             <button onClick={() => setCount(nextCount => nextCount + 1)}>Increment</button>
 
-        </div>
+        </div> 
     );
 }
 
