@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Message>
-        <p>This is children props</p>
+        <button>Action</button>
       </Message>
     </>
   )
