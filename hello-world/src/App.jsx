@@ -7,9 +7,7 @@ function App() {
 
   return (
     <>
-      <Message>
-        <button>Action</button>
-      </Message>
+      <Message/>
     </>
   )
 }
