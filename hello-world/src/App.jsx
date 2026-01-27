@@ -11,7 +11,7 @@ function App() {
         <p>This is children props</p>
       </Greet>
       <Greet name = "Ushindi" heroName= "ironman">
-        <button>Action</button
+        <button>Action</button>
       </Greet>
     </>
   )
