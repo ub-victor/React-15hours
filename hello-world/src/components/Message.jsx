@@ -1,7 +1,7 @@
 const Greet = (props) => {
     return (
         <>
-        <h1>Hello {props.name} a.k.a {props.heroName}</h1>
+        <h1>Welcome Visitor</h1>
         {props.children}
         </>
                 
