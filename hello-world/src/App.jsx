@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Greet name = "Victoire"/>
-      <Greet name = "Hello"/>
+      <Greet name = "Ushindi"/>
     </>
   )
 }
