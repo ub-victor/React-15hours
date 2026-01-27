@@ -6,6 +6,6 @@ const Greet = ({name,heroName}) => {
             </h1>
         </div>
      );
-} 
+}
  
 export default Greet;
