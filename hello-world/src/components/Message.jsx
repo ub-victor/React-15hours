@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const Message = (props) => {
+const Message = () => {
   // state to track subscribed status
   const [subscribed, setSubscribed] = useState(false);
 
