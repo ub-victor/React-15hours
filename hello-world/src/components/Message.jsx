@@ -48,7 +48,7 @@ const styles = {
     borderRadius: "8px",
     cursor: "pointer",
   },
-  subscribed: {
+  subscribed: { 
     marginLeft: 0,
     color: "#fff",
     fontWeight: 500,
