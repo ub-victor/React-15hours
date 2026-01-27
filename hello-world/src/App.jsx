@@ -10,7 +10,7 @@ function App() {
       <Greet name = "Victoire" heroName= "batman">
         <p>This is children props</p>
       </Greet>
-      <Greet name = "Ushindi" heroName= "ironman"/>
+      <Greet name = "Ushindi" heroName= "ironman"></Greet>
     </>
   )
 }
