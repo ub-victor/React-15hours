@@ -5,7 +5,7 @@ const Greet = (props) => {
         {props.children}
         </>
                 
-     );
+     ); 
 }
  
 export default Greet;  
