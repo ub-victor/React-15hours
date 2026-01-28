@@ -4,7 +4,7 @@ const FunctionClick = () => {
     }
     return ( 
         <button onClick={()=> clickHandler()}>Click</button>
-     ); 
+     );
 }
  
 export default FunctionClick;
