@@ -13,7 +13,7 @@ function App() {
       <Greet name = "Victoire" heroName= "Spiderman"/>
       <Greet name = "Ushindi" heroName= "The Rock"/>
       <FunctionClick/>
-    </>
+    </> 
   )
 }
 
