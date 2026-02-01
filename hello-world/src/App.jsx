@@ -11,7 +11,7 @@ function App() {
         <h2>{title}</h2>
 
         <button onClick={()=> setHasLiked(true) }>
-          {hasLiked? "": ""}
+          {hasLiked? "❤️": "🤍"}
         </button>
       </div>
     )
