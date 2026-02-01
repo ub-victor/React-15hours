@@ -5,8 +5,9 @@ import './index.css'
 function App() {
 
   const Card = ({title})=>{
+    const [hasLiked, setHasLiked] = useState(false)
     return (
-      <div style={{
+      <div className='card' style={{
         border: '1px solid #4b5362',
         padding: '10px',
         margin: '10px',
