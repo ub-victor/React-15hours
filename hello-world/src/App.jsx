@@ -13,7 +13,7 @@ function App() {
         <button onClick={()=> setHasLiked(!hasLiked) }>
           {hasLiked? "❤️": "🤍"}
         </button>
-      </div>
+      </div> 
     )
   }
 
