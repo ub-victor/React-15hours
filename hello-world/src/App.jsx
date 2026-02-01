@@ -15,8 +15,8 @@ function App() {
   return (
     <div className='card-container'>
       <Card title="Star Wars"/>
-       <Card title="Star Wars"/>
-        <Card title="Star Wars"/>
+      <Card title="Star Wars"/>
+      <Card title="Star Wars"/>
 
     </div>
     
