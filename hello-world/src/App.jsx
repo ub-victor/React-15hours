@@ -4,7 +4,13 @@ import viteLogo from '/vite.svg'
 import './index.css'
 function App() {
 
-  const Card = ({title})
+  const Card = ({title})=>{
+    return (
+      <div>
+        <h2>{title}</h2>
+      </div>
+    )
+  }
 
   return (
     
