@@ -10,7 +10,8 @@ function App() {
         border: '1px solid #4b5362',
         padding: '10px',
         margin: '10px',
-        background: '#f0f0f0'
+        backgroundColor: '#31363f',
+        borderRadius: '10px'
       }}>
         <h2>{title}</h2>
       </div>
