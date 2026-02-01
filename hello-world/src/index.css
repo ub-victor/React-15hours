@@ -13,4 +13,6 @@ body{
 h2 {
   color: #f3f3f3;
   text-align: center; /* To center horizotally*/
+  margin-bottom: 30px;
+  font-size: 48px;
 }
