@@ -9,11 +9,7 @@ import FunctionClick from './components/FunctionClick'
 function App() {
 
   return (
-    <>
-      <Greet name = "Victoire" heroName= "Spiderman"/>
-      <Greet name = "Ushindi" heroName= "The Rock"/>
-      <FunctionClick/>
-    </>
+    
   )
 }
 
