@@ -7,6 +7,9 @@ function App() {
 
   const Card = ({title})=>{
     const [hasLiked, setHasLiked] = useState(false)
+    useEffect()=>{
+      console.log(`${title} has been liked: ${hasLiked}`);
+    }
     return (
       <div className='card'>
         <h2>{title}</h2>
