@@ -9,6 +9,9 @@ function App() {
     return (
       <div className='card'>
         <h2>{title}</h2>
+        <button onClick={()=> se}>
+          like
+        </button>
       </div>
     )
   }
