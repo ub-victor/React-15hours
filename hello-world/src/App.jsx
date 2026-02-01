@@ -17,7 +17,7 @@ function App() {
     )
   }
 
-  return ( 
+  return (
     <div className='card-container'>
       <Card title="Star Wars"/>
       <Card title="Avatar"/>
