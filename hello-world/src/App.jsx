@@ -14,7 +14,13 @@ const API_OPTIONS = {
 const App = () => {
   const [searchTerm, setSearchTerm] = useState("");
 
-  const fecth
+  const fecthMovies = async()=>{
+    try{
+
+    } catch(error){
+      console.log(`error.message`)
+    }
+  }
 
   useEffect(()=>{
 
