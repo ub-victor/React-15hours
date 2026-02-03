@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import Search from './components/Search'
 
-
+const API_KEY = import.meta.env.VITE_TMDB_API_KEY;
 
 const App = () => {
   const [searchTerm, setSearchTerm] = useState("");
