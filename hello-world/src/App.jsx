@@ -41,6 +41,8 @@ const App = () => {
 
         <section className='all-movies'>
           <h2>All movies</h2>
+
+          
         </section>
 
       
